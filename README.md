@@ -9,9 +9,6 @@ Key Features
 
 Demonstration
 
-(Drag and drop your MARS console screenshot right here into the GitHub text editor. It will automatically convert it into an image link!)
-How to Run
-
     Download the MARS MIPS Simulator.
 
     Open vault_console.asm in the simulator.
